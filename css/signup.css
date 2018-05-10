@@ -1,0 +1,58 @@
+.body{
+    /* background-color:#2F2FA2; */
+ background-color:  #143A85;
+
+}
+/* .center{
+    margin: auto;
+    width: 5%;
+} */
+.logo{
+    height:100px;
+    width:100px;
+}
+.p{
+    color:white;
+    text-align:center;
+    font-size : 20px;
+}
+.p1
+{
+    color:white;
+    text-align:center;
+    font-size : 25px;
+}
+.h2{
+    color:white;
+    font-size : 30px;
+    
+}
+.strong{
+    color:white;
+    text-align:center;
+    font-family: Oswald;
+    font-size: 20px;
+    font-style: bold;
+}
+.form{
+    color:white;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom:15px;
+}
+.row{
+    background-color:#143A85;
+    text-align: center;
+}
+.psw{
+    color:white;
+    font-size: 15px;
+}
+.signup-button{
+    background-color: #FF8C00 !important;
+    padding :15px 15px 15px 15px;
+}
+.line{
+    border-left: 2px solid white;
+}
+  

@@ -1,0 +1,24 @@
+.h1{
+    text-align: center;
+    font-size: 30px;
+    font-stretch: expanded;
+}
+.logo{
+    height:100px;
+    width:100px;
+}
+.body{
+    background-color: skyblue;
+}
+.email
+{
+    background-color:aliceblue ;
+    border :10px solid white;
+     margin : 50px 50px 50px 50px ; 
+     padding : 60px 60px 60px 60px;
+     text-align: center;
+}
+.p1{
+    font-family: Helvetica ; 
+    size: 20px;
+}
